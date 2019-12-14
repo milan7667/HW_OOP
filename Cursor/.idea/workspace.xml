@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aade573-8c19-4eb0-83b1-43a363a03951" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/CursorEducation/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursorEducation/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CursorEducation/Average1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CursorEducation/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursorEducation/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CursorEducation/DescSorting1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CursorEducation/DuplicateToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursorEducation/DuplicateToZero.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/CursorEducation" />
+  </component>
+  <component name="ProjectId" id="1UDDmT30phYLeZADwQTpBy86AXQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/CursorEducation/Ternar.java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Circle">
+    <configuration name="Auto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CursorEducation.Auto" />
+      <module name="Cursor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CursorEducation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CursorEducation.Average" />
+      <module name="Cursor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CursorEducation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CursorEducation.Circle" />
+      <module name="Cursor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CursorEducation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CursorEducation.CountObjects" />
+      <module name="Cursor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CursorEducation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ternar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ternar" />
+      <module name="Cursor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.CountObjects" />
+        <item itemvalue="Application.Auto" />
+        <item itemvalue="Application.Ternar" />
+        <item itemvalue="Application.Average" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aade573-8c19-4eb0-83b1-43a363a03951" name="Default Changelist" comment="" />
+      <created>1574882431570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574882431570</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Tsk 5 fixing double">
+      <created>1575236423551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575236423551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tsk 5 fixing double" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tsk 5 fixing double" />
+  </component>
+</project>
