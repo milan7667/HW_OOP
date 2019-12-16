@@ -1,7 +1,5 @@
-package HW4.interfaces;
-
-
-import HW4.Vertex.Vertex;
+package hw4.interfaces;
+import hw4.Vertex.Vertex;
 
 public abstract class Shape {
     private Vertex vertexA;

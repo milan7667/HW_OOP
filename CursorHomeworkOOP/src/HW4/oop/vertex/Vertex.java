@@ -1,4 +1,4 @@
-package HW4.Vertex;
+package hw4.Vertex;
 
 public class Vertex {
     private double x;

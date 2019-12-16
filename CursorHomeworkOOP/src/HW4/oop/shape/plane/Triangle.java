@@ -1,9 +1,9 @@
-package HW4.shape.Plane;
+package hw4.shape.Plane;
 
-import HW4.Vertex.Vertex;
-import HW4.Vertex.Vertex2D;
-import HW4.interfaces.AreaMeasurable;
-import HW4.interfaces.PerimeterMeasurable;
+import hw4.Vertex.Vertex;
+import hw4.Vertex.Vertex2D;
+import hw4.interfaces.AreaMeasurable;
+import hw4.interfaces.PerimeterMeasurable;
 
 public class Triangle extends PlaneShape implements PerimeterMeasurable, AreaMeasurable {
     private Vertex2D vertexB;

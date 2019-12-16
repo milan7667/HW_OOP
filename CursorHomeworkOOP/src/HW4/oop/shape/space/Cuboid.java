@@ -1,6 +1,6 @@
-package HW4.shape.Space;
+package hw4.shape.Space;
 
-import HW4.Vertex.Vertex3D;
+import hw4.Vertex.Vertex3D;
 
 public class Cuboid extends SpaceShape {
     private double width;
