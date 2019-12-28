@@ -5,6 +5,10 @@ import java.util.List;
 
 public class Fruits {
     public static void main(String[] args) {
+        Fruits.changeFruits();
+    }
+
+    public static void changeFruits() {
         List<String> myFruits = new ArrayList<>();
         myFruits.add("Kiwi");
         myFruits.add("Orange");
