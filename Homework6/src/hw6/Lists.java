@@ -4,8 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Lists {
-
     public static void main(String[] args) {
+        Lists.devideOnThree();
+    }
+
+    public static void devideOnThree() {
         List<Integer> myList = new ArrayList<>();
         myList.add(3);
         myList.add(9);
@@ -21,7 +24,6 @@ public class Lists {
         }
     }
 }
-
 
 
 
