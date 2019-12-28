@@ -18,6 +18,5 @@ public class Fruits {
             }
         }
         System.out.println(myFruits);
-
     }
 }
