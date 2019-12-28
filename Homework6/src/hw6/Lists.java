@@ -19,7 +19,6 @@ public class Lists {
                 System.out.println(i);
             }
         }
-
     }
 }
 
